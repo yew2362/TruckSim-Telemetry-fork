@@ -1,3 +1,5 @@
+# THIS IS A FORK OF https://github.com/kniffen/TruckSim-Telemetry
+
 # TruckSim-Telemetry
 TruckSim-Telemetry is a node module that takes telemetry data for Euro Truck Simulator 2 and American Truck Simulator provided by the [scs-sdk-plugin](https://github.com/RenCloud/scs-sdk-plugin) and outputs parsed data and events.
 

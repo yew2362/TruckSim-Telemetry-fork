@@ -1,5 +1,5 @@
 {
-  "name": "trucksim-telemetry",
+  "name": "trucksim-telemetry-eurofork",
   "version": "0.21.0",
   "description": "Telemetry data from the scs-sdk-plugin",
   "main": "lib/index.js",
@@ -25,7 +25,7 @@
     "telemetry",
     "game"
   ],
-  "author": "Kniffen",
+  "author": "yew2362",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kniffen/TruckSim-Telemetry/issues"
